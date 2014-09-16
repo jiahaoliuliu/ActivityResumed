@@ -3,5 +3,7 @@
 
     <string name="app_name">ActivityResumed</string>
     <string name="start_second_activity_button">Start Second Activity</string>
+    <string name="restart_main_activity_button">Restart first activity</string>
+    <string name="title_activity_second">Second activity</string>
 
 </resources>
